@@ -2,7 +2,7 @@
 <img alt="Logo banner" src="https://raw.githubusercontent.com/upal212/WHMCS-Dark/master/banner.png"/></p>
 </br>
 
-# CloudLinkd-Dark
+# WHMCS-Dark
 A Dark theme for the WHMCS admin page.
 
 ![Example dashboard](https://raw.githubusercontent.com/upal212/WHMCS-Dark/master/example1.png)
